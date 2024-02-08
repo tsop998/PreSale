@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "Techaddict Coin Presale"
+                                        children: ""
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
